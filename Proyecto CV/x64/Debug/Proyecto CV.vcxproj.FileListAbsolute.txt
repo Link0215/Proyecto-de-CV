@@ -1,0 +1,2 @@
+C:\Users\berna\Documents\Bernardo\Programación\Proyecto CV\x64\Debug\Proyecto CV.exe
+C:\Users\berna\Documents\Bernardo\Programación\Proyecto CV\x64\Debug\Proyecto CV.pdb

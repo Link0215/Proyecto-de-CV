@@ -1,0 +1,4 @@
+﻿  Proyecto CV.cpp
+C:\Users\berna\Documents\Bernardo\Programación\Proyecto CV\Proyecto CV.cpp(27,12): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\berna\Documents\Bernardo\Programación\Proyecto CV\Proyecto CV.cpp(31,15): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Proyecto CV.vcxproj -> C:\Users\berna\Documents\Bernardo\Programación\Proyecto CV\x64\Debug\Proyecto CV.exe
